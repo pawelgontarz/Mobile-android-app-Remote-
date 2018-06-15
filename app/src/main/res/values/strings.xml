@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Magazyn</string>
+    <string name="add_products">Wprowadzanie produktów</string>
+    <string name="get_products">Pobieranie produktów</string>
+    <string name="manual_control">Sterowanie ręczne</string>
+    <string name="main_menu">Menu główne</string>
+    <string name="engineX">Prowadnica pozioma</string>
+    <string name="engineY">Prowadnica pionowa</string>
+    <string name="engineZ">Gąsienica zbierająca</string>
+    <string name="defaultPower">5</string>
+    <string name="getProductsActivity">Automatyczne pobieranie</string>
+    <string name="title_activity_get_products">Produkty</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_products">Wybieranie produktów</string>
+    <string name="minus">-</string>
+    <string name="start">Start</string>
+    <string name="plus">+</string>
+    <string name="product_1x1">Stanowisko 1x1</string>
+    <string name="product_1x2">Stanowisko 1x2</string>
+    <string name="product_1x3">Stanowisko 1x3</string>
+    <string name="product_2x1">Stanowisko 2x1</string>
+    <string name="product_2x2">Stanowisko 2x2</string>
+    <string name="product_2x3">Stanowisko 2x3</string>
+    <string name="product_3x1">Stanowisko 3x1</string>
+    <string name="product_3x2">Stanowisko 3x2</string>
+    <string name="product_3x3">Stanowisko 3x3</string>
+    <string name="product_4x1">Stanowisko 4x1</string>
+    <string name="product_4x2">Stanowisko 4x2</string>
+    <string name="product_4x3">Stanowisko 4x3</string>
+    <string name="textview_start">Zacznij pobieranie produktów</string>
+
+</resources>
